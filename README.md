@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://github.com/ShehanUD" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/256/internet.png" alt="shehandissanayake" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shehan-dissanayake-3ba8482b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan-dissanyake-" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/1ZdpLTdFVC/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan.dissanayke" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shehan.dissanayake.7923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan.dissanayke" height="30" width="40" /></a>
 <a href="https://instagram.com/shehanudissanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c._h._e._m._y" height="30" width="40" /></a>
 </p>
 
